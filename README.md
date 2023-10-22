@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="Documentation\Images\CodSoft_Logo2.png" width="177.44186046511627906976744186047" height="50" align="right" style="margin-top: -10px; margin-right: 20px;">
+</div>
+
 # CodSoft Tech Internship Repository
 
 
