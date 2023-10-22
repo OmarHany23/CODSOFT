@@ -19,7 +19,8 @@ The repository is organized into the following structure:
 If you have any questions or need to reach out, please feel free to contact me at [omarhany2k@gmail.com](omarhany2k@gmail.com).
 
 Thank you to the CodSoft team for this valuable opportunity, and I look forward to contributing my best to the projects during this internship.
-
+#### 🌐 Explore CodSoft: [CodSoft](www.codsoft.in)
+#### 📧 Contact: [contact@codsoft.in](contact@codsoft.in)
 
 #### Best regards,
 ### Omar Hany
